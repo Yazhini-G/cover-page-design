@@ -139,4 +139,3 @@ write html css code for designing book cover page and execute them
 
 ## Result:
 The program for designing book cover page using html and css is executed successfully
-g)
